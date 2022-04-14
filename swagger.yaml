@@ -114,7 +114,7 @@ paths:
     patch:
       tags:
         - Jobs
-      summary: Updata Job
+      summary: Update Job
       operationId: UpdataJob
       parameters: []
       requestBody:
